@@ -1,6 +1,6 @@
 {
   "name": "@torndao/tornado-fixed-merkle-tree",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "Fixed depth merkle tree implementation with sequential inserts",
   "repository": {
     "type": "git",
